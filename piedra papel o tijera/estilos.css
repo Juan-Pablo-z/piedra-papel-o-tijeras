@@ -1,0 +1,109 @@
+body{
+    background-color: #1A1A1D;
+}
+
+.contenedor-inicio{
+    align-items: center;
+    justify-content: center;
+    padding:30px;
+    width: 30rem;
+    background-color: #3B1C32;
+    border-radius: 20px;
+}
+
+.inicio-sesion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10vh;
+    display: none;
+}
+
+.registro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10vh;
+    display: flex;
+}
+
+.juego{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10vh;
+    display: none; 
+}
+
+.contendor-juego{
+    align-items: center;
+    justify-content: center;
+    padding:30px;
+    width: 30rem;
+    background-color: #3B1C32;
+    border-radius: 20px;
+}
+
+.contenedor-registro{
+    align-items: center;
+    justify-content: center;
+    padding:30px;
+    width: 30rem;
+    background-color: #3B1C32;
+    border-radius: 20px;
+}
+
+.contenedor-boton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.titulo{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.mensaje-registro{
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.mensaje-inicarSesion{
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.contenedor-btn{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.btn-juego{
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;
+    align-items: center; 
+    width: 5rem;
+    height: 5rem;
+    border-radius: 100%;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;
+    align-items: center; 
+}
